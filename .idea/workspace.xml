@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c041b2-a803-43f5-9567-ab9f71655713" name="Changes" comment="" />
+    <list default="true" id="76c041b2-a803-43f5-9567-ab9f71655713" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/numpy/core/tests/data/astype_copy.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/numpy/core/tests/data/astype_copy.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/numpy/core/tests/data/numpy_2_0_array.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/numpy/core/tests/data/numpy_2_0_array.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
